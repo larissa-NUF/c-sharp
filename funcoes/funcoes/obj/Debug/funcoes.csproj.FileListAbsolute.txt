@@ -1,0 +1,7 @@
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\funcoes\funcoes\bin\Debug\funcoes.exe.config
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\funcoes\funcoes\bin\Debug\funcoes.exe
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\funcoes\funcoes\bin\Debug\funcoes.pdb
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\funcoes\funcoes\obj\Debug\funcoes.csprojAssemblyReference.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\funcoes\funcoes\obj\Debug\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\funcoes\funcoes\obj\Debug\funcoes.exe
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\funcoes\funcoes\obj\Debug\funcoes.pdb
