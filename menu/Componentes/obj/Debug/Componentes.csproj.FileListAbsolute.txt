@@ -1,0 +1,6 @@
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\Componentes\bin\Debug\Componentes.dll
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\Componentes\bin\Debug\Componentes.pdb
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\Componentes\obj\Debug\Componentes.csprojAssemblyReference.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\Componentes\obj\Debug\Componentes.dll
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\Componentes\obj\Debug\Componentes.pdb

@@ -1,0 +1,10 @@
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\obj\Debug\menu.csprojAssemblyReference.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\bin\Debug\menu.exe.config
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\bin\Debug\menu.exe
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\bin\Debug\menu.pdb
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\obj\Debug\menu.exe
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\obj\Debug\menu.pdb
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\bin\Debug\Componentes.dll
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\bin\Debug\Componentes.pdb
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\menu\menu\obj\Debug\menu.csproj.CopyComplete
