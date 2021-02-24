@@ -1,0 +1,11 @@
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe.config
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.pdb
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\obj\Debug\Editor de Texto.csprojAssemblyReference.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\obj\Debug\Editor_de_Texto.Properties.Resources.resources
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\obj\Debug\Editor de Texto.csproj.GenerateResource.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\obj\Debug\Editor de Texto.csproj.CoreCompileInputs.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\obj\Debug\Editor de Texto.exe
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\obj\Debug\Editor de Texto.pdb
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\obj\Debug\Editor_de_Texto.FrmSalvar.resources
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\winForm\Editor de Texto\Editor de Texto\obj\Debug\Editor_de_Texto.FrmTela.resources

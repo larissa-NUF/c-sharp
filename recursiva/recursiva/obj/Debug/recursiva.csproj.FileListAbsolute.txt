@@ -1,0 +1,7 @@
+C:\Users\LARISSANUNESDEFIGUER\source\repos\recursiva\recursiva\bin\Debug\recursiva.exe.config
+C:\Users\LARISSANUNESDEFIGUER\source\repos\recursiva\recursiva\bin\Debug\recursiva.exe
+C:\Users\LARISSANUNESDEFIGUER\source\repos\recursiva\recursiva\bin\Debug\recursiva.pdb
+C:\Users\LARISSANUNESDEFIGUER\source\repos\recursiva\recursiva\obj\Debug\recursiva.csprojAssemblyReference.cache
+C:\Users\LARISSANUNESDEFIGUER\source\repos\recursiva\recursiva\obj\Debug\recursiva.csproj.CoreCompileInputs.cache
+C:\Users\LARISSANUNESDEFIGUER\source\repos\recursiva\recursiva\obj\Debug\recursiva.exe
+C:\Users\LARISSANUNESDEFIGUER\source\repos\recursiva\recursiva\obj\Debug\recursiva.pdb
