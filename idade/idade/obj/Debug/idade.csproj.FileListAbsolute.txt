@@ -1,0 +1,7 @@
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\idade\idade\bin\Debug\idade.exe.config
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\idade\idade\bin\Debug\idade.exe
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\idade\idade\bin\Debug\idade.pdb
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\idade\idade\obj\Debug\idade.csprojAssemblyReference.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\idade\idade\obj\Debug\idade.csproj.CoreCompileInputs.cache
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\idade\idade\obj\Debug\idade.exe
+C:\Users\LARISSANUNESDEFIGUER\Documents\trabalho\c#\idade\idade\obj\Debug\idade.pdb
